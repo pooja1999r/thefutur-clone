@@ -1,0 +1,42 @@
+
+
+
+.head{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 0px 9px 0px gray;
+    background-color: white;
+}
+.let{ display: flex;
+    align-items: center;
+    font-size: xx-large;
+}
+
+p{ 
+    text-align: center;
+    margin: 50px;
+    padding: 5px;
+}
+.right{
+    margin-right:0px;
+}
+.btn{
+    
+    padding: 15px;
+    width: 400px;
+    background-color: red;
+    color: black;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: large;
+}
+@media (max-width:1500px) {
+    .head{
+        display: none;
+    }
+}

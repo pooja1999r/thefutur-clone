@@ -1,0 +1,42 @@
+
+.img2{
+    margin-top: 70px;
+    margin-left: 100px;
+    height: 50%;
+    width: 50%;
+}
+.view1{
+    margin-top: 140px;
+    margin-left: 100px;
+    float:left;
+}
+.heading3{
+    font-size: xx-large;
+    margin-bottom: 40px;
+}
+.view1_para{
+    margin: 10px 0px 0px 0px;
+}
+
+@media (max-width:700px) {
+    .overview1{
+        margin-top: 170px;
+        
+    }
+    .img2{
+        height: 100%;
+        width: 100%;
+    }
+    .view1{
+        margin-top: 140px;
+        margin-left: 100px;
+    }
+    .heading3{
+        font-size: xx-large;
+        margin-bottom: 40px;
+    }
+    .view1_para{
+        margin: 10px 0px 0px 0px;
+    }
+    
+}

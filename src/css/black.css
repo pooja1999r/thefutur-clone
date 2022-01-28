@@ -1,0 +1,45 @@
+
+
+.black{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+}
+
+.heading_course{
+    align-items: center;
+    display: flex;
+}
+
+.black_heading1{
+    color: yellow;
+    font-size: xx-large;
+    margin: 70px 0px 0px 70px;
+}
+.black_heading2{
+    margin: 70px 0px 0px 500px;
+    font-size: 100px;
+}
+.page1{
+    margin: 90px;
+    padding: 90px;
+}
+.items{
+    margin: 15px;
+    color: yellow;
+
+    margin-left: 70px;
+}
+
+.page_head{
+    margin-left: 70px;
+    color: red;
+    font-size: xx-large;
+}
+.page_para{
+    text-align: left;
+}
+
+

@@ -1,0 +1,39 @@
+
+.card_kit{
+    margin: 0px;
+    box-shadow: 9px 0px 9px 0px grey;
+    padding: 50px;
+    background-color: rgb(255, 254, 253);
+}
+
+.first_head{
+      margin: 20px;
+      font-size: x-large;
+      color: red;
+}
+.second_head{
+    margin: 20px;
+    margin-top: 30px;
+    font-size: 60px;
+}
+.cards1{
+     margin-top: 70px;
+    display: flex;
+    text-align: left;
+}
+.card1{
+    padding: 20px;
+}
+
+.card_headings{
+    font-size: xx-large;
+    margin-left: 50px;
+    color: red;
+}
+.card1_para{
+    height: 100px;
+    padding: 0px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: larger;
+}
